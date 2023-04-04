@@ -2,7 +2,7 @@ import React from "react";
 import "./Introduction.css";
 import ExitToAppIcon from "@material-ui/icons/ExitToApp";
 import { ThemeContext } from "../../Context/theme";
-// import profilePic from "../../assets/Photo_fw14_056.png";
+import ProfilePhoto from "../../assets/Profile Photo.png";
 
 export const Introduction = () => {
   const [{ themename }] = React.useContext(ThemeContext);
@@ -17,7 +17,7 @@ export const Introduction = () => {
           <div className={"introduction " + themename}>
             <div className="introduction_logocontainer">
               <img
-                src="http://www.goodmorningimagesdownload.com/wp-content/uploads/2021/12/Beautiful-Images-for-DP.jpg"
+                src={ProfilePhoto}
                 alt="Images"
               />
             </div>
@@ -26,12 +26,12 @@ export const Introduction = () => {
               I seek to work in a competitive field and ready to accept the
                 <span className="different"> challenges, utilizing my skills </span> would like to work with a 
                 <span className="different">
-                 highly esteemed company
+                {""} highly esteemed company
                 </span>
-                which gives me a platform to use my expertise and
+                {""} which gives me a platform to use my expertise and
               skills for mutual growth and
                 <span className="different">
-                benefit of company and myself.
+                {""} benefit of company and myself.
                 </span>
               </h4>
 

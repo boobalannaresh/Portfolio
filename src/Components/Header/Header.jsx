@@ -1,7 +1,7 @@
 import React from "react";
 import { Navbar } from "../Navbar/Navbar";
 import { ThemeContext } from "../../Context/theme";
-import Image from "./logo.png";
+import Image from "./Profile logo transprent.png";
 
 import "./Header.css";
 export const Header = () => {
@@ -10,15 +10,17 @@ export const Header = () => {
   return (
     <>
       <header className={"header center " + themename}>
+        
         <h3>
           <a href="#home" >
             <span>
-              <h2 data-aos="fade-right" className="naresh-logo">{"< Nareshbabu />"} </h2>
+              <img src={Image} data-aos="fade-right" className="naresh-logo" />
             </span>
            
           </a>
         </h3>
         <Navbar />
+        
       </header>
     </>
   );

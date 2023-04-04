@@ -11,18 +11,18 @@
   --clr-bg-alt: #fff;
   --clr-fg: #555;
   --clr-fg-alt: #444;
-  --clr-primary: #2978b5;
+  --clr-primary: #b5295a;
   --shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
 }
 
 .dark {
-  --clr-bg: #23283e;
+  --clr-bg: #3c0721;
   --clr-bg-alt: #2a2f4c;
-  --clr-fg: #bdbddd;
-  --clr-fg-alt: #cdcdff;
-  --clr-primary: #90a0d9;
-  --shadow: rgba(0, 0, 0, 0.16) 0px 10px 36px 0px,
-    rgba(0, 0, 0, 0.06) 0px 0px 0px 1px;
+  --clr-fg:#9f6200;
+  --clr-fg-alt: #9f6200;
+  --clr-primary: #0ed58f;
+  --shadow: rgba(252, 233, 24, 0.16) 0px 10px 36px 0px,
+    rgba(233, 199, 4, 0.06) 0px 0px 0px 1px;
 }
 
 main {
@@ -44,6 +44,7 @@ main {
 .center {
   display: flex;
   align-items: center;
+  /* margin-left:150px; */
 }
 
 .link {

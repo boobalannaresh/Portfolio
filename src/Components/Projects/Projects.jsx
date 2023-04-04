@@ -43,11 +43,11 @@ export const Projects = () => {
                   online source.
                 </p>
                 <div>
-                  <FaReact />
-                  <BsBootstrap />
-                  <SiMongodb />
-                  <SiNodedotjs />
-                  <SiExpress />
+                  <FaReact color="#5bc0de" />
+                  <BsBootstrap color="#59287a" />
+                  <SiMongodb color="4DB33D" />
+                  <SiNodedotjs color="#3c873a" />
+                  <SiExpress color="68A063"/>
                 </div>
                 <div>
                   <a
@@ -90,7 +90,7 @@ export const Projects = () => {
               <div className="project_videocontainer">
                 <div>
                   <img
-                  style={{width:"390px", height:"220px"}}
+                 
                     src={pizza}
                     alt="Pizza delivery app"
                   />
@@ -104,11 +104,11 @@ export const Projects = () => {
                   their pizza by adding toppings, spices, ingredients etc.
                 </p>
                 <div>
-                  <FaReact />
-                  <BsBootstrap />
-                  <SiMongodb />
-                  <SiNodedotjs />
-                  <SiExpress />
+                <FaReact color="#5bc0de" />
+                  <BsBootstrap color="#59287a" />
+                  <SiMongodb color="4DB33D" />
+                  <SiNodedotjs color="#3c873a" />
+                  <SiExpress color="68A063"/>
                 </div>
                 <div>
                   <a

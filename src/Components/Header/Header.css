@@ -13,13 +13,12 @@
   }
   
   img{
-    width: 30px;
-    margin-right: 4px;
+    width: 200px;
+ 
   }
-  .naresh-logo{
-    font-family: 'Akronim', cursive;
-    width:200px;
-    color:rgb(223, 70, 15);
-    object-fit: cover;
-  }
+
+  /* .navbar-header{
+    display:flex;
+  } */
+
   

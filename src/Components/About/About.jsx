@@ -22,14 +22,15 @@ export const About = () => {
         <div className="about center">
 
           <div className="home">
+
             <h2 data-aos="fade-right" className="mobileHead">
-              Hello, I am <span className="about__name">Nareshbabu</span>
+              Hello,  I'm <span className="about__name">Nareshbabu</span>
             </h2>
             <Type />
-            <p className="about__desc" data-aos="fade-left">
+            <p className="about__desc" data-aos="fade-right">
             A self-taught developer with an interest in Computer Science.
-
             </p>
+
           </div>
 
           <div className="about__contact center" style={{ marginRight: "250px", marginLeft:"150px" }}>
@@ -69,15 +70,7 @@ export const About = () => {
             >
               <LinkedInIcon />
             </a>
-            <a
-              href="https://twitter.com/KhakalShreyas"
-              aria-label="twitter"
-              className="link link--icon"
-              target="_blank"
-              rel="noreferrer"
-            >
-              <TwitterIcon />
-            </a>
+            
           </div>
 
           <button

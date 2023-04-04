@@ -25,21 +25,21 @@ export const Contact = () => {
               target="_blank"
               rel="noreferrer"
             >
-              <FaLinkedin className="linkedin" />
+              <FaLinkedin color=" #0e76a8" />
             </a>
             <a
               href="https://github.com/Shreyasgkhakal100/"
               target="_blank"
               rel="noreferrer"
             >
-              <VscGithub className="github" />
+              <VscGithub color="#333" />
             </a>
             <a
               href="mailto:nareshbabuk21@gmail.com"
               target="_blank"
               rel="noreferrer"
             >
-              <CgMail className="email" />
+              <CgMail color="FBBC05" />
             </a>
             <a href="tel:+919159553177" target="_blank" rel="noreferrer">
               <BsFillTelephoneFill className="phone" />
