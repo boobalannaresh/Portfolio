@@ -5,13 +5,9 @@ import GitHubIcon from '@mui/icons-material/GitHub';
 import LinkedInIcon from "@mui/icons-material/LinkedIn";
 import EmailIcon from "@mui/icons-material/Email";
 import PhoneIcon from "@mui/icons-material/Phone";
-import TwitterIcon from "@material-ui/icons/Twitter";
-import DescriptionIcon from "@material-ui/icons/Description";
-// import PublicIcon from "@material-ui/icons/Public";
 import { Introduction } from "./Introduction";
 import { Timeline } from "./Timeline";
 import { Techstacks } from "./Techstacks";
-// import Button from "@mui/material/Button";
 import { Player } from '@lottiefiles/react-lottie-player';
 
 
