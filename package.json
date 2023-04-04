@@ -4,7 +4,6 @@
   "private": true,
   "main": "src/index.js",
   "dependencies": {
-    "@emotion/react": "^11.10.6",
     "@emotion/styled": "^11.10.6",
     "@lottiefiles/react-lottie-player": "^3.5.3",
     "@mui/icons-material": "^5.11.11",

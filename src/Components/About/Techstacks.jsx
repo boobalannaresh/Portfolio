@@ -6,9 +6,6 @@ import {
   SiHtml5,
   SiMaterialui,
   SiExpress,
-  SiRedis,
-  SiTailwindcss,
-  SiNetlify,
 
 } from "react-icons/si";
 import { DiCss3, DiMongodb } from "react-icons/di";
