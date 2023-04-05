@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.60073801.css",
+    "main.js": "/static/js/main.6d2f87d7.js",
+    "static/media/Profile Photo.png": "/static/media/Profile Photo.466aebf7a8f671a12a90.png",
+    "static/media/pizza.png": "/static/media/pizza.c39be2e6b44631c3881e.png",
+    "static/media/Profile logo transprent.png": "/static/media/Profile logo transprent.9a53d6a17fc27c195413.png",
+    "static/media/BookMyShow.jpg": "/static/media/BookMyShow.f5d243f579fc7a0633ba.jpg",
+    "index.html": "/index.html",
+    "main.60073801.css.map": "/static/css/main.60073801.css.map",
+    "main.6d2f87d7.js.map": "/static/js/main.6d2f87d7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.60073801.css",
+    "static/js/main.6d2f87d7.js"
+  ]
+}
