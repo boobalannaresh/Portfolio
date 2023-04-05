@@ -57,8 +57,9 @@ export const About = () => {
             >
               <PhoneIcon />
             </a>
+            
             <a
-              href="https://www.linkedin.com/in/shreyas-g-khakal/"
+              href="https://www.linkedin.com/in/nareshbabu-k-57a361271/"
               aria-label="linkedin"
               className="link link--icon"
               target="_blank"
