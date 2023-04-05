@@ -21,14 +21,14 @@ export const Contact = () => {
             data-aos="fade-right"
           >
             <a
-              href="https://www.linkedin.com/in/shreyas-g-khakal/"
+              href="https://www.linkedin.com/in/nareshbabu-k-57a361271/"
               target="_blank"
               rel="noreferrer"
             >
               <FaLinkedin color=" #0e76a8" />
             </a>
             <a
-              href="https://github.com/Shreyasgkhakal100/"
+              href="https://github.com/boobalannaresh"
               target="_blank"
               rel="noreferrer"
             >
@@ -59,7 +59,7 @@ export const Contact = () => {
                 <BsFillTelephoneFill className="phone" />
               </span>
               <span>
-                <p>+91 9159553177</p>
+                <p>+91-9159553177</p>
               </span>
             </div>
           </div>
